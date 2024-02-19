@@ -11,8 +11,7 @@ Course Homework for RBE549 - Computer Vision (Spring 2024)
 
 ### Implementation:
 
-1. Navigate to 'pshinde1_hw0/'.
-2. Run 
+1. Run 
 
 ```
 python3 Wrapper.py
